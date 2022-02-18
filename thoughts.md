@@ -4,3 +4,5 @@ Attention to detail: Making sure you're writing the proper syntax, and also rela
 Additional strategies:
 Reviewing notes directly after the session to gain more comfortability with what we have learned.
 Doing pre-work: Reading over the next session, and also taking notes on that session before the next meeting in order to better focus and not feel so overwhelmed.
+
+Shoutout: My friend Mary (BE graduate) has reached out after nearly every session to see how I am handling it and if she can be of any support. It's really nice to have that kind of support.
