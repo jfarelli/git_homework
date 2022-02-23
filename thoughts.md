@@ -7,4 +7,4 @@ Doing pre-work: Reading over the next session, and also taking notes on that ses
 
 Shoutout: My friend Mary (BE graduate) has reached out after nearly every session to see how I am handling it and if she can be of any support. It's really nice to have that kind of support.
 
-Session 3 Note...
+Session 3 Note...GitHub
